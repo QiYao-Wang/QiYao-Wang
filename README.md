@@ -9,6 +9,9 @@
   </a>  
 </div>
 
+<div>
 #### Organization
 
 - [IP Intelligence](https://github.com/AIforIP)
+</div>
+
