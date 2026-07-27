@@ -7,9 +7,3 @@
 #### Organization
 
 - [IP Intelligence](https://github.com/AIforIP)
-
-<div>
-  <a href="https://QiYao-Wang.github.io/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=QiYao-Wang&count_private=true&show_icons=true" />
-  </a>  
-</div>
